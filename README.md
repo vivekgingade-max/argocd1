@@ -1,3 +1,2 @@
-# argocd1
-argocd-files
-mkding cchange. this is just a test.
+# argocd
+sample application to test argocd with kubernetes
